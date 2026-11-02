@@ -22,5 +22,7 @@ The .gerber files are also included as well.
 |Connectors|1|$0.86|$0.86|<a href="https://www.peconnectors.com/cart">PeConnectors</a>|
 |PCB|1|$4.00|$4.00|<a href="https://www.jlcpcb.com/">jlcpcb</a>|
 
+Total = 33.56
+
 <h4>Attributions</h4>
 No AI was used for this project.
