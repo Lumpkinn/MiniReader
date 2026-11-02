@@ -7,7 +7,7 @@ The .gerber files are also included as well.
 
 <h3>BOM</h3>
 | Item        | Amount | Unit Price  | Total | Vendor |
-| ------------- |:-:| :----:|:-----:|:------:|
+| ------------- |:-:| :----:|:-----:|:------:|:------:|
 | MicroSD Breakout Board  | 1 | $7.50 |$7.50|<a href="https://www.adafruit.com/product/254">Adafruit</a>|
 | Adafruit 1.44 TFT Display |1|$14.95|$14.95|<a href="https://www.adafruit.com/product/2088">Adafruit</a>|
 | Potentiometer|1|$1.25|$1.25|<a href="https://www.adafruit.com/product/4133">Adafruit</a>|
